@@ -1,0 +1,33 @@
+# Visual Studio solution and project files
+*.sln
+*.suo
+*.user
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.pdb
+*.idb
+*.opendb
+*.ilk
+*.exp
+*.lib
+*.obj
+*.pch
+
+# Visual Studio temporary files
+/Debug/
+/Release/
+*.tmp
+*.log
+
+# IDE-specific files
+.vs/
+.vscode/
+
+# Other common ignored files
+*.suo
+*.ntvs_analysis.dat
+*.boostrap
+_ReSharper*/
+**/bin/
+**/obj/
